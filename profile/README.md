@@ -1,4 +1,4 @@
-# JC Group - Soluciones de Software Empresarial
+# J&C Group - Soluciones de Software Empresarial
 
 ![Status](https://img.shields.io/badge/status-activo-brightgreen)
 ![Año](https://img.shields.io/badge/fundado-2023-blue)
