@@ -5,7 +5,7 @@
 ![Última actualización](https://img.shields.io/badge/actualizado-Mayo%202025-orange)
 
 <div align="center">
-  <img src="images/jg-group-logo.svg" alt="Logo JC Group" width="150px"/>
+  <img src="jg-group-logo.svg" alt="Logo JC Group" width="150px"/>
   <h2>Transformamos ideas en soluciones digitales</h2>
 </div>
 
